@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"github.com/alecthomas/jsonschema"
-	"github.com/chrusty/protoc-gen-jsonschema/internal/protos"
+	"github.com/faroceann/protoc-gen-jsonschema/internal/protos"
 	"github.com/sirupsen/logrus"
 	"github.com/xeipuuv/gojsonschema"
 	gengo "google.golang.org/protobuf/cmd/protoc-gen-go/internal_gengo"

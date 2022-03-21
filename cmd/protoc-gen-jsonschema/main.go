@@ -15,7 +15,7 @@ import (
 	"google.golang.org/protobuf/proto"
 	plugin "google.golang.org/protobuf/types/pluginpb"
 
-	"github.com/chrusty/protoc-gen-jsonschema/internal/converter"
+	"github.com/faroceann/protoc-gen-jsonschema/internal/converter"
 )
 
 func main() {
